@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on **Java全栈开发**
-- 🌱 I’m currently learning **SpringBoot、Mybatis、Vue**
+- 🌱 I’m currently learning **Java、SpringBoot、Mybatis、Vue**
 - 👯 I’m looking to collaborate on **软件工程实训（中级）**
 - 🤔 I’m looking for help with **How to Enter the Company for Internship**
 - 💬 Ask me about **Experience of Studying in the SSE-中山大学**
